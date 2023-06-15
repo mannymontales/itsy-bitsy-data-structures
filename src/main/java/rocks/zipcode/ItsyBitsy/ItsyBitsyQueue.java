@@ -1,6 +1,6 @@
-package itsybitsydatastructures.src.main.java.rocks.zipcode.ItsyBitsy;
+package rocks.zipcode.ItsyBitsy;
 
-public class ItsyBitsyQueue<T> extends ItsyBitsyList {
+public class ItsyBitsyQueue<T> extends ItsyBitsyList<T> {
     
 /**
  * Next, we're going to build a queue which is complementary to stacks. The

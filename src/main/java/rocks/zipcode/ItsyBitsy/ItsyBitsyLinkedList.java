@@ -1,4 +1,4 @@
-package itsybitsydatastructures.src.main.java.rocks.zipcode.ItsyBitsy;
+package rocks.zipcode.ItsyBitsy;
 
 /**
 * Next we're going to see how a graph-like structure can help optimize ordered

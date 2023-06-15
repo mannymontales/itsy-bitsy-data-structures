@@ -1,4 +1,4 @@
-package itsybitsydatastructures.src.main.java.rocks.zipcode.ItsyBitsy;
+package rocks.zipcode.ItsyBitsy;
 
 import java.util.ArrayList;
 

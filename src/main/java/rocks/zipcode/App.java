@@ -1,4 +1,4 @@
-package itsybitsydatastructures.src.main.java.rocks.zipcode;
+package rocks.zipcode;
 
 /**
  * Hello world!
