@@ -8,11 +8,9 @@ written in easy to read ~~JavaScript~~ **Java**.
 Reading through the guided code will help you learn about what data structures
 are, what their uses are, and how to discuss them.
 
-Again, this code requires you to **gasp** _Think_.
-
 ### [Want to jump into the code? Click here](itsy-bitsy-data-structures.java)
 
-Also be sure to check out Jamie's other code walkthrough:
+Also be sure to check out my other code walkthrough:
 [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
 (which Kristofer also transliterated to Java, cf. [xxx]())
 
@@ -36,7 +34,14 @@ It's more about introducing you to the shared language of data structures.
 ### Okay so where do I begin?
 
 Awesome! Head on over to the
-[Java Source](itsybitsydatastructures/src/main/java/rocks/zipcode/ItsyBitsy) directory.
+[itsy-bitsy-data-structures.js](itsy-bitsy-data-structures.java) file.
+
+### I'm back, that didn't make sense
+
+Ouch, I'm really sorry. I'm planning on doing a lot more work on this to add
+inline annotations. If you want to come back when that's done, you can either
+watch/star this repo or follow me on
+[twitter](https://twitter.com/thejameskyle) for updates.
 
 ---
 
