@@ -12,4 +12,3 @@ Read the source in this order. Add to the unit tests.
 - ItsyBitsyLinkedList.java
 - ItsyBitsyTree.java
 - ItsyBitsyBinarySearchTree.java
-

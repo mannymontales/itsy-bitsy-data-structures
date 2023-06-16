@@ -10,11 +10,14 @@ are, what their uses are, and how to discuss them.
 
 Again, this code requires you to **gasp** _Think_.
 
-### [Want to jump into the code? Click here](itsy-bitsy-data-structures.java)
+Basically, you should write some unit tests, proving to yourself amd me that the codes as expected.
+
+
+### [Want to jump into the code? Click here](src/main/java/rocks/zipcode/ItsyBitsy/README.md)
 
 Also be sure to check out Jamie's other code walkthrough:
 [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
-(which Kristofer also transliterated to Java, cf. [xxx]())
+(which Kristofer also transliterated to Java, cf. [Snowman](https://github.com/xt0fer/the-super-tiny-compiler-java.git))
 
 ---
 
